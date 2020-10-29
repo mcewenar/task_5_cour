@@ -1,5 +1,4 @@
 # task_5_cour
-Ajax
 WEBPAGE URL: https://mcewenar.github.io/task_5_cour/
 
 Requeriments URL: https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md
